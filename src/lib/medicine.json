@@ -1,0 +1,512 @@
+[
+  {
+    "id": "1a1f0f8e-amlodipine",
+    "nama": "amlodipine besilate",
+    "image":"/images/amlodipine-besilate.png",
+    "deskripsi": "Penghambat kanal kalsium dihidropiridin untuk hipertensi dan angina.",
+    "komposisi": "Amlodipine besilate 5 mg / 10 mg (varian umum)",
+    "dosis": {
+      "adult": "5 mg sekali sehari, dapat ditingkatkan sampai 10 mg/hari",
+      "children": "6–17 tahun: 2.5–5 mg sekali sehari (dokter menentukan), <6 tahun: gunakan sesuai rekomendasi dokter",
+      "elderly": "Mulai dengan dosis rendah (mis. 2.5–5 mg) dan titrasi perlahan; maksimal 10 mg/hari"
+    },
+    "efek_samping": "Pusing, edema perifer (pembengkakan tungkai), flushing, palpitasi.",
+    "kategori": "Antihipertensi (Calcium channel blocker)",
+    "tags": ["hipertensi","angina"]
+  },
+  {
+    "id": "2b2f0f9a-ibuprofen",
+    "nama": "ibuprofen",
+    "image":"/images/ibuprofen.jpeg",
+    "deskripsi": "NSAID analgesik/antipiretik/antiinflamasi untuk nyeri ringan-sedang dan demam.",
+    "komposisi": "Ibuprofen 200 mg (OTC), 400 mg, 600 mg, 800 mg (formulasi resep)",
+    "dosis": {
+      "adult": "200–400 mg setiap 4–6 jam bila perlu; umum 1200 mg/hari OTC, hingga 2400 mg/hari untuk kondisi tertentu; konsultasi dokter untuk dosis >1200 mg/hari",
+      "children": "Berdasarkan berat: 4–10 mg/kg per dosis tiap 6–8 jam; maksimum ~40 mg/kg/hari (petunjuk usia/berat harus diikuti)",
+      "elderly": "Gunakan dosis terendah efektif; risiko GI/renal meningkat — pantau fungsi ginjal dan interaksi obat"
+    },
+    "efek_samping": "Iritasi lambung, risiko perdarahan GI, gangguan ginjal (pada penggunaan lama atau dosis tinggi).",
+    "kategori": "Analgesik / NSAID",
+    "tags": ["nyeri","demam","inflamasi"]
+  },
+  {
+    "id": "3c3f1a2b-amoxicillin",
+    "nama": "amoxicillin trihydrate",
+    "image":"/images/amoxicillin-trihydrate.jpg",
+    "deskripsi": "Antibiotik beta-laktam spektrum luas, digunakan untuk berbagai infeksi bakteri.",
+    "komposisi": "Amoxicillin trihydrate (kekuatan bervariasi: 125 mg/5 mL, 250 mg/5 mL; tablet 250/500/875 mg)",
+    "dosis": {
+      "adult": "250–500 mg tiap 8 jam atau 500–875 mg tiap 12 jam tergantung indikasi; contoh 500 mg q8–12h",
+      "children": "20–90 mg/kg/hari dibagi 2–3 dosis (bergantung indikasi; AAP/AAP rekomendasi untuk otitis: 80–90 mg/kg/hari terbagi 2 dosis)",
+      "elderly": "Sesuaikan fungsi renal; dosis biasanya sama kecuali gangguan ginjal"
+    },
+    "efek_samping": "Diare, reaksi alergi (ruam hingga anafilaksis), gangguan saluran cerna.",
+    "kategori": "Antibiotik (Aminopenicillin)",
+    "tags": ["infeksi","antibiotik"]
+  },
+  {
+    "id": "4d4f2b3c-smectite",
+    "nama": "Dioctahedral smectite",
+    "image":"/images/smecta-dioctahedral-smectite.jpg",
+    "deskripsi": "Adsorben usus yang dipakai untuk pengobatan diare akut; membantu mengikat toksin/air.",
+    "komposisi": "Dioctahedral smectite (smectite) — bentuk khusus (varian produk lokal dapat berbeda)",
+    "dosis": {
+      "adult": "Biasanya 3–6 gram per hari dibagi beberapa dosis (bergantung produk); ikuti petunjuk produk",
+      "children": "Dosis menyesuaikan usia/berat menurut produk; ikuti instruksi kemasan atau dokter",
+      "elderly": "Gunakan sesuai petunjuk; hidrasi penting"
+    },
+    "efek_samping": "Konstipasi (jarang), gangguan pencernaan; kontraindikasi jika obstruksi usus.",
+    "kategori": "Antidiarrheal / Adsorben",
+    "tags": ["diare","adsorben"]
+  },
+  {
+    "id": "5e5f3c4d-lactulax",
+    "nama": "lactulax lactulose",
+    "image":"/images/lactulax-lactulose.jpg",
+    "deskripsi": "Laktulosa — laksatif osmotik untuk konstipasi; juga digunakan untuk ensefalopati hepatik.",
+    "komposisi": "Lactulose (larutan oral), konsentrasi bervariasi (mis. 10 g/15 mL tergantung produk)",
+    "dosis": {
+      "adult": "Constipation: 15–30 mL/hari (atau 10–20 g) lalu sesuaikan; Ensefalopati hepatik: dosis lebih tinggi sesuai dokter",
+      "children": "Mulai dari 3–10 mL/hari tergantung usia/berat; ikuti petunjuk dokter",
+      "elderly": "Mulai dengan dosis rendah dan titrasi untuk menghindari kembung/diarrea"
+    },
+    "efek_samping": "Kembung, gas, kram perut, diare bila overdosis.",
+    "kategori": "Laksatif (osmotic)",
+    "tags": ["konstipasi","hepatik"]
+  },
+  {
+    "id": "6f6f4d5e-atorvastatin",
+    "nama": "atorvastatin calcium trihydrate",
+    "image":"/images/atorvastatin-calcium-trihydrate.jpg",
+    "deskripsi": "Statin untuk menurunkan LDL dan risiko kardiovaskular.",
+    "komposisi": "Atorvastatin calcium (10 mg, 20 mg, 40 mg, 80 mg tablet)",
+    "dosis": {
+      "adult": "10–80 mg sekali sehari tergantung target lipid; umum mulai 10–20 mg/hari",
+      "children": "Beberapa anak >10 tahun dengan familial hypercholesterolemia bisa mulai dengan 10 mg/hari (dokter menentukan)",
+      "elderly": "Dosis biasanya sama, pantau fungsi hati dan interaksi obat"
+    },
+    "efek_samping": "Nyeri otot, peningkatan enzim hati, jarang rhabdomyolysis.",
+    "kategori": "Lipid-lowering agent (Statin)",
+    "tags": ["kolesterol","statin"]
+  },
+  {
+    "id": "7g7g5e6f-benadryl",
+    "nama": "benadryl allergy",
+    "image":"/images/benadryl-allergy.jpg",
+    "deskripsi": "Antihistamin generasi pertama (contoh: diphenhydramine) untuk reaksi alergi; 'Benadryl' merek umum.",
+    "komposisi": "Diphenhydramine 25 mg (tablet umum) atau formulasi sirup akut",
+    "dosis": {
+      "adult": "25–50 mg setiap 4–6 jam bila perlu (tidak lebih dari 300 mg/hari untuk dewasa pada beberapa sumber)",
+      "children": "Dosis sesuai usia/berat pada leaflet; beberapa produk anak: 1 mg/kg per dosis (periksa produk)",
+      "elderly": "Hati-hati: sedasi, risiko kebingungan; biasanya gunakan antihistamin generasi kedua sebagai alternatif"
+    },
+    "efek_samping": "Sedasi, mulut kering, retensi urin, gangguan kognitif terutama di lansia.",
+    "kategori": "Antihistamin (generasi pertama)",
+    "tags": ["alergi","antihistamin"]
+  },
+  {
+    "id": "8h8h6f7g-blackmores-calcimag",
+    "nama": "blackmores calcimag multi",
+    "image":"/images/blackmores-magnesium.jpg",
+    "deskripsi": "Suplemen multivitamin/mineral fokus kalsium dan magnesium (produk Blackmores).",
+    "komposisi": "Kalsium, magnesium, vitamin D, vitamin dan mineral lain (tergantung formula pabrikan)",
+    "dosis": {
+      "adult": "Sesuai label Blackmores (umumnya 1 tablet/hari atau sesuai petunjuk kemasan)",
+      "children": "Produk dewasa; jangan diberikan pada anak kecuali ada formulasi anak",
+      "elderly": "Ikuti dosis label; konsultasi dokter bila menggunakan obat antikoagulan"
+    },
+    "efek_samping": "Gangguan pencernaan ringan, risiko interaksi (mis. dengan absorpsi obat lain).",
+    "kategori": "Suplemen (kalsium / multivitamin)",
+    "tags": ["suplemen","kalsium","vitaminD"]
+  },
+  {
+    "id": "9i9i7g8h-blackmores-omega",
+    "nama": "blackmores ultimate omega",
+    "image":"/images/blackmores-ultimate-omega.jpg",
+    "deskripsi": "Suplemen asam lemak omega-3 (EPA/DHA) untuk kesehatan jantung dan otak.",
+    "komposisi": "Minyak ikan berkonsetrasi tinggi (EPA/DHA) — sesuai label Blackmores",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 kapsul/hari untuk maintain; dosis terapeutik lebih tinggi berdasarkan petunjuk dokter)",
+      "children": "Gunakan formulasi anak jika tersedia; konsultasi dokter",
+      "elderly": "Sesuai label; perhatikan interaksi antikoagulan"
+    },
+    "efek_samping": "Rasa ikan, mual ringan; risiko perdarahan pada dosis tinggi atau bersamaan antikoagulan.",
+    "kategori": "Suplemen (Omega-3)",
+    "tags": ["omega-3","suplemen","jantung"]
+  },
+  {
+    "id": "10j10h9i-redoxon-cdr",
+    "nama": "cdr calcium-d-redoxon",
+    "image":"/images/cdr-eff.png",
+    "deskripsi": "Produk kombinasi kalsium dan vitamin D (atau Redoxon CDR yang biasanya kalsium + vit D).",
+    "komposisi": "Kalsium + Vitamin D + mungkin vitamin C (sesuai varian produk)",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 tablet/hari); jangan melebihi asupan kalsium harian yang direkomendasikan",
+      "children": "Gunakan produk anak jika tersedia",
+      "elderly": "Sering direkomendasikan untuk menunjang kebutuhan kalsium/vit D; ikuti dosis label/dokter"
+    },
+    "efek_samping": "Konstipasi, gangguan pencernaan bila asupan kalsium tinggi.",
+    "kategori": "Suplemen (kalsium / vitamin)",
+    "tags": ["kalsium","vitaminD","suplemen"]
+  },
+  {
+    "id": "11k11i10-dulcolax",
+    "nama": "dulcolax bisacodyl",
+    "image":"/images/dulcolax.jpg",
+    "deskripsi": "Laksatif stimulan (bisacodyl) untuk konstipasi jangka pendek atau persiapan usus.",
+    "komposisi": "Bisacodyl 5 mg (tablet) atau supositoria 10 mg",
+    "dosis": {
+      "adult": "Tablet 5–10 mg sekali sehari (biasanya semalam untuk efek pagi hari); supositoria 10 mg sekali bila perlu",
+      "children": "Anak 6–10 tahun: 5–10 mg sekali (ikuti petunjuk kemasan); <6 tahun konsultasi dokter",
+      "elderly": "Gunakan dengan hati-hati; hidrasi penting"
+    },
+    "efek_samping": "Kram perut, diare, kemungkinan iritasi usus bila sering digunakan.",
+    "kategori": "Laksatif (stimulant)",
+    "tags": ["konstipasi","laksatif"]
+  },
+  {
+    "id": "12l12j11-eyevit",
+    "nama": "eyevit",
+    "image":"/images/eyevit.jpg",
+    "deskripsi": "Suplemen multivitamin/antioksidan untuk kesehatan mata (merek: Eyevit atau sejenis).",
+    "komposisi": "Biasanya mengandung vitamin A, C, E, lutein, zeaxanthin, zinc (tergantung varian)",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 tablet/hari)",
+      "children": "Produk dewasa; gunakan formulasi anak bila tersedia",
+      "elderly": "Sesuai label; bagus untuk dukungan nutrisi mata tapi konsultasi jika on therapy lain"
+    },
+    "efek_samping": "Jarang; reaksi alergi atau gangguan pencernaan ringan.",
+    "kategori": "Suplemen (kesehatan mata)",
+    "tags": ["mata","vitamin","antioksidan"]
+  },
+  {
+    "id": "13m13k12-fluconazole",
+    "nama": "fluconazole",
+    "image":"/images/fluconazole.jpg",
+    "deskripsi": "Antijamur azol oral untuk kandidiasis dan infeksi jamur sistemik/organ tertentu.",
+    "komposisi": "Fluconazole 50 mg, 100 mg, 150 mg",
+    "dosis": {
+      "adult": "Untuk kandidiasis vagina: 150 mg sekali (oral); for other infections dosing varies (50–400 mg/hari) sesuai indikasi",
+      "children": "Dosis berdasarkan berat; tersedia sebagai suspensi untuk pediatrik (dokter menentukan)",
+      "elderly": "Sesuaikan fungsi ginjal bila perlu; dosis sering sama tapi pantau toksisitas"
+    },
+    "efek_samping": "Gangguan pencernaan, peningkatan enzim hati, interaksi obat (CYP450).",
+    "kategori": "Antifungal (azole)",
+    "tags": ["antijamur","kandidiasis"]
+  },
+  {
+    "id": "14n14l13-glibenclamide",
+    "nama": "glibenclamide",
+    "image":"/images/glibenclamide.jpg",
+    "deskripsi": "Sulfonlyurea untuk penurunan gula darah pada diabetes tipe 2 (glibenclamide/glyburide).",
+    "komposisi": "Glibenclamide (glyburide) 1.25 mg, 2.5 mg, 5 mg",
+    "dosis": {
+      "adult": "Awal biasanya 2.5–5 mg sekali sehari; dosis dapat dibagi; maksimum bervariasi (per pabrikan/area)",
+      "children": "Umumnya tidak digunakan pada anak; penggunaan pediatrik jarang dan berdasarkan spesialis",
+      "elderly": "Risiko hipoglikemia meningkat — gunakan dosis rendah dan pantau glukosa"
+    },
+    "efek_samping": "Hipoglikemia (utama), kenaikan berat badan, reaksi kulit jarang.",
+    "kategori": "Antidiabetik (Sulfonlyurea)",
+    "tags": ["diabetes","antidiabetik","hipoglikemia"]
+  },
+  {
+    "id": "15o15m14-loratadine",
+    "nama": "loratadine",
+    "image":"/images/loratadine.jpg",
+    "deskripsi": "Antihistamin generasi kedua non-sedatif untuk alergi (rhinitis, urtikaria).",
+    "komposisi": "Loratadine 10 mg tablet, sirup 5 mg/5 mL",
+    "dosis": {
+      "adult": "10 mg sekali sehari",
+      "children": "2–12 tahun: tergantung usia/berat (contoh 2–5 tahun 5 mg/hari, 6–12 tahun 10 mg/hari) — ikuti label",
+      "elderly": "Gunakan dosis standar; hati-hati jika gangguan hati"
+    },
+    "efek_samping": "Jarang: sakit kepala, kantuk ringan pada beberapa orang.",
+    "kategori": "Antihistamin (generasi kedua)",
+    "tags": ["alergi","antihistamin","non-sedatif"]
+  },
+  {
+    "id": "16p16n15-omeprazole",
+    "nama": "omeprazole",
+    "image":"/images/omeprazole.jpg",
+    "deskripsi": "Proton pump inhibitor (PPI) untuk tukak lambung, GERD, dan kondisi asam berlebih.",
+    "komposisi": "Omeprazole 10 mg, 20 mg, 40 mg kapsul/tablet",
+    "dosis": {
+      "adult": "20–40 mg sekali sehari tergantung indikasi; terapi peptik jangka pendek 4–8 minggu, maintenance sesuai dokter",
+      "children": "Beberapa usia anak dapat menggunakan omeprazole (dosis berdasarkan berat/usia) — periksa formulasi pediatrik",
+      "elderly": "Dosis umum sama; perhatikan risiko fraktur/tubuh jika penggunaan jangka panjang"
+    },
+    "efek_samping": "Sakit kepala, diare, risiko infeksi enterik jika lama; penurunan penyerapan B12/kalsium bila lama.",
+    "kategori": "Gastrointestinal (PPI)",
+    "tags": ["GERD","ulcus","PPI"]
+  },
+  {
+    "id": "17q17o16-sanadryl-dmp",
+    "nama": "sanadryl-dmp syrup",
+    "image":"/images/sanadryl-dmp.jpg",
+    "deskripsi": "Sirup kombinasi dekongestan/antihistamin/antitusif tergantung formulasi (brand lokal).",
+    "komposisi": "Bervariasi — contoh: chlorpheniramine + dextromethorphan + pseudoephedrine (bergantung varian)",
+    "dosis": {
+      "adult": "Ikuti label / resep dokter sesuai komposisi produk",
+      "children": "Ikuti label usia/berat; beberapa komponen tidak dianjurkan untuk <2 tahun",
+      "elderly": "Hati-hati terhadap efek sedatif, hipertensi (jika pseudoephedrine)"
+    },
+    "efek_samping": "Sedasi, mulut kering, takikardia (jika dekongestan), interaksi obat.",
+    "kategori": "Sirup kombinasi (antihistamin/antitusif/dekongestan)",
+    "tags": ["batuk","alergi","sirup"]
+  },
+  {
+    "id": "18r18p17-simvastin",
+    "nama": "simvastin",
+    "image":"/images/simvastin.jpg",
+    "deskripsi": "Statin (HMG-CoA reductase inhibitor) untuk penurunan kolesterol.",
+    "komposisi": "Simvastatin 5 mg, 10 mg, 20 mg, 40 mg, 80 mg",
+    "dosis": {
+      "adult": "10–40 mg sekali sehari di malam hari; 80 mg hanya pada pasien tertentu dan dgn syarat ketat",
+      "children": "Kadang digunakan pada anak-anak dengan familial hypercholesterolemia (dokter menentukan)",
+      "elderly": "Dosis sering sama; waspadai interaksi obat dan risiko miopati"
+    },
+    "efek_samping": "Miopati, peningkatan enzim hati, jarang rhabdomyolysis.",
+    "kategori": "Lipid-lowering agent (Statin)",
+    "tags": ["kolesterol","statin"]
+  },
+  {
+    "id": "19s19q18-guaifenesin",
+    "nama": "guaifenesin",
+    "image":"/images/guaifenesin.png",
+    "deskripsi": "Ekspektoran untuk membantu mengencerkan dahak pada batuk produktif.",
+    "komposisi": "Guaifenesin 100 mg/200 mg (tablet) atau 100 mg/5 mL sirup",
+    "dosis": {
+      "adult": "200–400 mg setiap 4 jam sesuai kebutuhan (maks ~2400 mg/hari tergantung formulasi)",
+      "children": "Dosis anak sesuai usia/berat pada label produk; beberapa produk anak tersedia",
+      "elderly": "Gunakan sesuai label; hidrasi penting"
+    },
+    "efek_samping": "Paradoks jarang: mual, muntah; biasanya baik ditoleransi.",
+    "kategori": "Mukolitik / Ekspektoran",
+    "tags": ["batuk","ekspektoran"]
+  },
+  {
+    "id": "20t20r19-metformin",
+    "nama": "metformin hci",
+    "image":"/images/metformin-hci.png",
+    "deskripsi": "Biguanide untuk kontrol glukosa pada diabetes tipe 2; menurunkan produksi glukosa hati dan meningkatkan sensitivitas insulin.",
+    "komposisi": "Metformin HCl 500 mg, 850 mg, 1000 mg (tablet; juga formulasi XR)",
+    "dosis": {
+      "adult": "Mulai 500 mg sekali/two times daily, tingkatkan hingga 2000 mg/hari (spesifik tergantung toleransi/reaksi)",
+      "children": "Beberapa anak >10 tahun dapat menggunakan metformin dengan dosis yang disesuaikan (dokter menentukan)",
+      "elderly": "Gunakan dengan hati-hati; pantau fungsi ginjal (kontraindikasi jika GFR rendah)"
+    },
+    "efek_samping": "Gangguan GI (mual, diare), risiko asidosis laktat sangat jarang (risiko lebih tinggi jika gangguan ginjal).",
+    "kategori": "Antidiabetik (Biguanide)",
+    "tags": ["diabetes","antidiabetik","metformin"]
+  },
+  {
+    "id": "21u21s20-itraconazole",
+    "nama": "itraconazole",
+    "image":"/images/itraconazole.jpeg",
+    "deskripsi": "Antijamur azol sistemik untuk berbagai infeksi jamur (mis. onychomycosis, aspergillosis).",
+    "komposisi": "Itraconazole 100 mg kapsul",
+    "dosis": {
+      "adult": "Dosis bervariasi: mis. onychomycosis 200 mg/hari (tergantung rejimen) atau 200 mg dua kali sehari selama beberapa minggu; sesuai indikasi",
+      "children": "Dosis pediatrik berdasarkan berat/indikasi (dokter menentukan)",
+      "elderly": "Pantau interaksi obat dan fungsi hati"
+    },
+    "efek_samping": "Gangguan hati, interaksi obat substansial (CYP3A4), mual.",
+    "kategori": "Antifungal (azole)",
+    "tags": ["antijamur","onychomycosis"]
+  },
+  {
+    "id": "22v22t21-lacidofil",
+    "nama": "lacidofil",
+    "image":"/images/lacidofil.jpg",
+    "deskripsi": "Probiotik (biasanya mengandung strain Lactobacillus) untuk keseimbangan flora usus.",
+    "komposisi": "Lactobacillus spp. (jumlah CFU bervariasi per produk)",
+    "dosis": {
+      "adult": "Sesuai label (biasanya 1 kapsul/hari atau beberapa kali/hari tergantung produk)",
+      "children": "Tersedia formulasi anak; ikuti label",
+      "elderly": "Sesuai label; umumnya aman kecuali kondisi immunocompromised"
+    },
+    "efek_samping": "Jarang; kembung ringan atau gas.",
+    "kategori": "Probiotik",
+    "tags": ["probiotik","saluran_pencernaan"]
+  },
+  {
+    "id": "23w23u22-lansoprazole",
+    "nama": "lansoprazole",
+    "image":"/images/lansoprazole.jpg",
+    "deskripsi": "Proton pump inhibitor (PPI) untuk GERD, tukak lambung, dan eradikasi H. pylori dalam kombinasi.",
+    "komposisi": "Lansoprazole 15 mg, 30 mg kapsul/sachet",
+    "dosis": {
+      "adult": "15–30 mg sekali sehari tergantung indikasi; durasi tergantung kondisi",
+      "children": "Beberapa anak dapat menggunakan PPI sesuai usia/dosis pediatrik (dokter menentukan)",
+      "elderly": "Gunakan hati-hati; risiko efek jangka panjang serupa PPI"
+    },
+    "efek_samping": "Sakit kepala, diare, risiko infeksi GI jika penggunaan lama.",
+    "kategori": "Gastrointestinal (PPI)",
+    "tags": ["GERD","PPI","ulcus"]
+  },
+  {
+    "id": "24x24v23-lisinopril",
+    "nama": "lisinopril dihydrate",
+    "image":"/images/lisinopril-dihydrate.jpeg",
+    "deskripsi": "ACE inhibitor untuk hipertensi, gagal jantung, dan pasca-infark miokard.",
+    "komposisi": "Lisinopril 2.5 mg, 5 mg, 10 mg, 20 mg, 40 mg",
+    "dosis": {
+      "adult": "Awal 10 mg sekali sehari (bisa 2.5–5 mg untuk pasien tertentu), maintenance 20–40 mg/hari tergantung respon",
+      "children": "Beberapa indikasi pediatrik ada; dosis berdasarkan berat (dokter menentukan)",
+      "elderly": "Mulai dengan dosis rendah (2.5–5 mg) dan pantau tekanan darah serta fungsi ginjal"
+    },
+    "efek_samping": "Batuk kering, hiperkalemia, hipotensi, gangguan ginjal pada beberapa pasien.",
+    "kategori": "Antihipertensi (ACE inhibitor)",
+    "tags": ["hipertensi","ACE inhibitor"]
+  },
+  {
+    "id": "25y25x24-loperamide",
+    "nama": "loperamide hci",
+    "image":"/images/loperamide-hci.jpg",
+    "deskripsi": "Antidiarrheal opioid-agonist yang mengurangi motilitas usus untuk diare akut.",
+    "komposisi": "Loperamide HCl 2 mg tablet/capsule",
+    "dosis": {
+      "adult": "Awal 4 mg, lalu 2 mg setelah tiap tinja cair; maksimum 8 mg/hari OTC atau 16 mg/hari di bawah pengawasan medis (bergantung pedoman lokal)",
+      "children": "Bervariasi; banyak produk tidak dianjurkan <2 tahun; ikuti aturan usia/berat produk",
+      "elderly": "Gunakan hati-hati; jangan digunakan bila diare disertai demam tinggi atau darah pada tinja tanpa pemeriksaan"
+    },
+    "efek_samping": "Sembelit, kembung; risiko ileus pseudo-obstruksi pada overdosis/ pasien tertentu.",
+    "kategori": "Antidiarrheal (opioid agonist)",
+    "tags": ["diare","antidiarrheal"]
+  },
+  {
+    "id": "26z26y25-natur-e",
+    "nama": "natur-e",
+    "image":"/images/natur-e.jpg",
+    "deskripsi": "Suplemen vitamin E (merek seperti Natur-E) sebagai antioksidan.",
+    "komposisi": "Vitamin E (tocopherol) 100 IU atau nilai sejenis tergantung varian",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 kapsul/hari)",
+      "children": "Gunakan formulasi anak jika tersedia",
+      "elderly": "Sesuai label; hati-hati bila on antikoagulan"
+    },
+    "efek_samping": "Dosis tinggi dapat meningkatkan risiko perdarahan; mual kadang terjadi.",
+    "kategori": "Suplemen (vitamin)",
+    "tags": ["vitaminE","antioksidan"]
+  },
+  {
+    "id": "27a27z26-naturesplus-vitd3",
+    "nama": "naturesPlus vitamin d3",
+    "image":"/images/natures-plus-vitamin-d3.jpeg",
+    "deskripsi": "Suplemen vitamin D3 (kolekalsiferol) untuk mendukung kesehatan tulang dan kekebalan.",
+    "komposisi": "Vitamin D3 (dose tergantung produk: 400–5000 IU per kapsul/tablet)",
+    "dosis": {
+      "adult": "Sesuai label; umum suplementasi 800–2000 IU/hari tergantung kebutuhan dan hasil lab",
+      "children": "Anak-anak: rekomendasi berbeda per usia; gunakan formulasi anak bila ada",
+      "elderly": "Sering direkomendasikan 800–2000 IU/hari untuk mencegah defisiensi (sesuai dokter)"
+    },
+    "efek_samping": "Hiperkalsemia jika overdosis jangka panjang; mual, konstipasi.",
+    "kategori": "Suplemen (vitamin D)",
+    "tags": ["vitaminD","kalsium"]
+  },
+  {
+    "id": "28b28a27-now-mk7",
+    "nama": "nowFoods mk-7 vitamin k-2",
+    "image":"/images/nowfoods-vit-k.png",
+    "deskripsi": "Suplemen Vitamin K2 (menaquinone-7, MK-7) untuk kesehatan tulang dan vaskular.",
+    "komposisi": "Vitamin K2 (MK-7) — dosis bervariasi (mis. 45–100 mcg per kapsul)",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 45–200 mcg/hari tergantung produk)",
+      "children": "Konsultasi dokter; gunakan formulasi anak bila ada",
+      "elderly": "Sesuai label; hati-hati bila on antikoagulan (warfarin) — kontraindikasi atau perlu pengawasan"
+    },
+    "efek_samping": "Interaksi dengan antikoagulan (risiko pengaruh INR); reaksi alergi jarang.",
+    "kategori": "Suplemen (vitamin K2)",
+    "tags": ["vitaminK2","tulang"]
+  },
+  {
+    "id": "29c29b28-nestle-nutren",
+    "nama": "Nestle nutren fibre",
+    "image":"/images/nutren-fibre.png",
+    "deskripsi": "Formulasi nutrisi enteral/oral lengkap dengan serat untuk dukungan gizi.",
+    "komposisi": "Campuran protein, karbohidrat, lemak, serat, vitamin & mineral (sesuai label Nestle Nutren Fibre)",
+    "dosis": {
+      "adult": "Sesuai kebutuhan kalori/dokter/dietitian; biasanya beberapa botol/hari tergantung kebutuhan",
+      "children": "Gunakan formulasi pediatrik jika tersedia",
+      "elderly": "Digunakan sebagai suplement nutrisi sesuai rekomendasi ahli gizi"
+    },
+    "efek_samping": "Kembung atau gangguan pencernaan pada penyesuaian; alergi terhadap bahan tertentu jika ada.",
+    "kategori": "Nutrisi medis / Supplement meal",
+    "tags": ["nutrisi","enteral","serat"]
+  },
+  {
+    "id": "30d30c29-paracetamol",
+    "nama": "paracetamol",
+    "image": "/images/paracetamol.png",
+    "deskripsi": "Analgesik dan antipiretik (acetaminophen) untuk nyeri dan demam.",
+    "komposisi": "Paracetamol 500 mg tablet; juga 325 mg, 1000 mg tergantung produk",
+    "dosis": {
+      "adult": "500–1000 mg setiap 4–6 jam bila perlu; maksimal umum 3000–4000 mg/hari (ikuti pedoman lokal dan label)",
+      "children": "Berdasarkan berat/usia; contoh 10–15 mg/kg per dosis tiap 4–6 jam (maks 4 dosis/24 jam atau sesuai label)",
+      "elderly": "Gunakan dosis terendah efektif; hati-hati bila gangguan hati"
+    },
+    "efek_samping": "Hepatotoksisitas pada overdosis; jarang reaksi alergi.",
+    "kategori": "Analgesik / Antipiretik",
+    "tags": ["nyeri","demam","paracetamol"]
+  },
+  {
+    "id": "31e31d30-redoxon-zinc",
+    "nama": "redoxon zinc eff",
+    "image":"/images/redoxon-zinc-eff.jpg",
+    "deskripsi": "Suplemen effervescent vitamin C dengan seng untuk dukungan imunitas.",
+    "komposisi": "Vitamin C + Zinc (kandungan tergantung varian Redoxon)",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 tablet effervescent/hari)",
+      "children": "Tersedia varian anak; ikuti dosis label",
+      "elderly": "Sesuai label; perhatikan interaksi dan kebutuhan gizi"
+    },
+    "efek_samping": "Iritasi lambung jika diminum tanpa air yang cukup; rasa logam dari zinc dalam beberapa orang.",
+    "kategori": "Suplemen (vitamin C + zinc)",
+    "tags": ["vitaminC","zinc","imunitas"]
+  },
+  {
+    "id": "32f32e31-sangobion",
+    "nama": "sangobion",
+    "image":"/images/sangobion.jpg",
+    "deskripsi": "Suplemen zat besi + vitamin (sering digunakan untuk anemia defisiensi besi).",
+    "komposisi": "Besi (ferrous sulfate/ferrous fumarate) + vitamin C + B-complex (varian produk)",
+    "dosis": {
+      "adult": "Sesuai label (mis. 1 tablet/hari atau sesuai anjuran dokter untuk penggantian FE)",
+      "children": "Gunakan formulasi anak sesuai produk/ resep dokter",
+      "elderly": "Sesuai label; pantau toleransi GI dan kadar Hb"
+    },
+    "efek_samping": "Mual, konstipasi, feses berwarna gelap; risiko kelebihan besi jika tidak perlu.",
+    "kategori": "Suplemen (zat besi / multivitamin)",
+    "tags": ["besi","anemia","suplemen"]
+  },
+  {
+    "id": "33g33f32-seaquill",
+    "nama": "Sea-quill selenium+Ace",
+    "image":"/images/sea-quill-selenium-plus-ace.png",
+    "deskripsi": "Suplemen kombinasi selenium dan vitamin A/C/E (varian Sea-quill).",
+    "komposisi": "Selenium + Vitamin A + Vitamin C + Vitamin E (kandungan tergantung produk)",
+    "dosis": {
+      "adult": "Sesuai label pabrikan",
+      "children": "Gunakan produk anak bila tersedia",
+      "elderly": "Sesuai label; jangan melebihi asupan selenium yang dianjurkan"
+    },
+    "efek_samping": "Overdosis selenium dapat menyebabkan toksisitas (garam logam); efek GI ringan.",
+    "kategori": "Suplemen (antioksidan)",
+    "tags": ["selenium","vitaminACE"]
+  },
+  {
+    "id": "34h34g33-ultravb",
+    "nama": "ultra vit b complex",
+    "image":"/images/ultra-vit-b-kompleks.jpg",
+    "deskripsi": "Suplemen kompleks vitamin B untuk mendukung metabolisme dan energi.",
+    "komposisi": "Vitamin B1, B2, B3, B5, B6, B12, folat, biotin (kandungan sesuai produk)",
+    "dosis": {
+      "adult": "Sesuai label (umumnya 1 tablet/kapsul/hari)",
+      "children": "Gunakan formulasi anak jika ada",
+      "elderly": "Sesuai label; pantau interaksi jika pasien on terapi lain"
+    },
+    "efek_samping": "Jarang; mungkin perubahan warna urine (vitamin B2) atau reaksi kulit jarang.",
+    "kategori": "Suplemen (B-complex)",
+    "tags": ["vitaminB","energi","suplemen"]
+  }
+]
